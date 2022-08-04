@@ -2,7 +2,7 @@
 
 ## About me <br />
 - 👨‍💻 Currently working as a Junior Frontend Engineer at [Datacakra](https://datacakra.com/)
-- :art: Interested in UI/UX Designs
+- :art: Interested in UI/UX Designs. See my designs [here](https://www.figma.com/file/C7wsMPTHDcaA3Uj9YWTvEk/Dio?node-id=0%3A1)
 - :computer: Computer addict  
 
 ## Used Programming Languages and Tools <br />
