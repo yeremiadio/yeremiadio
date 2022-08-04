@@ -8,8 +8,9 @@
 ## Used Programming Languages and Tools <br />
 <code><img height="36" alt="typescript" src="https://user-images.githubusercontent.com/62734504/182734407-73f7d487-8886-4f02-9b51-b717fcdf0641.png"></code>
 <code><img height="36" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="36" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
   <code><img height="36" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+    <code><img height="36" alt="nextjs" src="https://user-images.githubusercontent.com/62734504/182736385-89baebd2-f0aa-4d04-8c4c-e6837ed282e5.png"></code>
+      <code><img height="36" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
   <code><img height="36" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
   <code><img height="36" alt="laravel" src="https://user-images.githubusercontent.com/62734504/182734805-eef1da72-691f-46f8-86eb-c42b8013108b.png"></code>
   <code><img height="36" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
